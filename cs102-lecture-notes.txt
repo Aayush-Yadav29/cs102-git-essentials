@@ -4,3 +4,7 @@ Some of the git commands are as follows:
 3] git commit -m : used to commit the file with some names before pushing it to the github server.
 4] git push : used to upload the file on the github server.
 5] git pull : used to pull the file from github server to the local machine.
+
+Summary of lecture of CS102 on 13th May:
+First we started with how to start using VS code editor and downloading various extensions which are useful for us.Then we learned about a new language "Markdown" which is light markup language used to format the texts via using heading, subheadings, links,tables, etc.
+First we learned about "#" command which is used to give the heading of the page. And next "##" command can be used to provide a sub-heaidng to the previous heading. Similarly by using more # symbols we can go on to give sub-headings of thenew sub-headings.
