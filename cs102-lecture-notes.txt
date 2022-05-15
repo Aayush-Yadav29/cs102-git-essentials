@@ -1,0 +1,6 @@
+Some of the git commands are as follows:
+1] git status : it is used to check the status of files in the system that whether they are up to date with respect to git hub server or not.
+2] git add : used to add a file to be pushed onto the github server.
+3] git commit -m : used to commit the file with some names before pushing it to the github server.
+4] git push : used to upload the file on the github server.
+5] git pull : used to pull the file from github server to the local machine.
